@@ -11,6 +11,8 @@ gem 'sinatra'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
+	gem 'sqlite3'
+	
 end
     
 group :test do
