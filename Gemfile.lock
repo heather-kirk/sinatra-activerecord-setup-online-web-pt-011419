@@ -114,7 +114,7 @@ DEPENDENCIES
   shotgun
   sinatra
   sinatra-activerecord
-  sqlite3 (= 1.4.0)
+  sqlite3
   thin
   tux
 
